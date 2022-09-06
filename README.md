@@ -27,7 +27,7 @@ You can change the port if needed, renember to modify the port in the open scrip
   - Slave 2 is `http://localhost:PORT/2`
   - Slave 3 is `http://localhost:PORT/2`
   - ...
-  - - Slave N is `http://localhost:PORT/N`
+  - Slave N is `http://localhost:PORT/N`
 - The order of the browser windows are the following:
   - ![](./images/screenOrder.png)
   - `(...9, 7, 5, 3, 1, 2, 4, 6, 8...)`
