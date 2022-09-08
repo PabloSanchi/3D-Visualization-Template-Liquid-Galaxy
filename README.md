@@ -5,7 +5,7 @@
 
 ### Warning
 You must open the specified port (8120).
-You can change the port if needed, renember to modify the port in the open script too.
+You can change the port if needed, remember to modify the port in the open script too.
 
 ### FIRST STEPS
 - Select use template in the GitHub dashboard
